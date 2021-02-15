@@ -1,0 +1,35 @@
+1613335851099	geckodriver	INFO	Listening on 127.0.0.1:9799
+1613335851672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.MIH\\AppData\\Local\\Temp\\rust_mozprofilejjpbap"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613335856527	Marionette	INFO	Listening on port 9804
+1613335857050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613335857069	Marionette	ERROR	[15] No reply from Marionette:Register
+1613335881502	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1613335969245	Marionette	INFO	Stopped listening on port 9804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613335971489	geckodriver	INFO	Listening on 127.0.0.1:9866
+1613335971529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.MIH\\AppData\\Local\\Temp\\rust_mozprofileQxDoG4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613335975780	Marionette	INFO	Listening on port 9871
+1613335975845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613335975869	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613336004253	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1613336007961	Marionette	INFO	Stopped listening on port 9871
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613336010486	geckodriver	INFO	Listening on 127.0.0.1:9920
+1613336010516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.MIH\\AppData\\Local\\Temp\\rust_mozprofileU1Vx6s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613336014291	Marionette	INFO	Listening on port 9925
+1613336014718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613336014736	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613336041180	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1613336048794	Marionette	INFO	Stopped listening on port 9925
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
