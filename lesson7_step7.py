@@ -10,6 +10,7 @@ try:
 
     # Найти на ней элемент-картинку/ Взять у этого элемента значение атрибута valuex
     x_element = browser.find_element_by_id("treasure").get_attribute("valuex")
+    print(x_element)
     x = int(x_element)
     print(x)
 
